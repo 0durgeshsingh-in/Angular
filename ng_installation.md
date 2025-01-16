@@ -10,6 +10,11 @@
 ### 2. Install the Angular CLI
 - The Angular Command Line Interface (CLI) makes it easier to create and manage Angular projects.
 - Install the CLI globally using npm:
-  npm install -g @angular/cli
+  ``` npm install -g @angular/cli ```
 - After installation, you can verify it with:
-  ng --version
+  ``` ng --version ```
+
+### 3. Create a New Angular Project
+- Use the Angular CLI to generate a new project by running:
+``` ng new my-angular-app ```
+During the setup, you will be prompted with some options such as routing configuration and style format (CSS, SCSS, etc.). You can choose based on your project requirements.
