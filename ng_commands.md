@@ -23,15 +23,18 @@ ng g s service-name
 * Module
 ng generate module module-name
 ng g m module-name
-
+```
+```
 * Directive
 ng generate directive directive-name
 ng g d directive-name
-
+```
+```
 * Pipe
 ng generate pipe pipe-name
 ng g p pipe-name
-
+```
+```
 * Class
 ng generate class class-name
 
