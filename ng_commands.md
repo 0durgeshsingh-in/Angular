@@ -10,7 +10,7 @@ ng serve
 ```
 **3. Generating components, services, modules, etc.**
 ```
-**Component**
+#### Component
 ng generate component component-name
 ng g c component-name
 ```
